@@ -1,4 +1,4 @@
 # Simple Game (ARKit)
 
 ![](screenshot.png)
-[Click here](https://youtu.be/vFU3gN4FAFw) for a video demonstration.
+[Click here](https://www.youtube.com/watch?v=8YzjtbUI1M0) for a video demonstration.
